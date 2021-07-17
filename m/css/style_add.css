@@ -1,0 +1,52 @@
+tr.common_fieldset {
+	   background-color:rgb(219,234,249);
+	   border-radius: 4px;
+	   padding:2px;
+	   width:100%;
+       }
+tr.common_fieldset legend {
+		font:bold;		
+		color:rgb(6,33,63);
+		background-color:rgb(82,150,185);
+		border-radius: 4px;
+       }
+}
+      
+	
+.field1
+	{
+	clear:both;
+ 	text-align:right;
+   	width:200px;
+   	float:none;
+   
+}		
+
+   
+		
+			
+.course_center_style {
+	width: 400px;padding: 0;margin: 5px;height: 26px;
+}
+            
+			
+.course_center_style1 {
+	width: 483px;
+	padding: 0;
+	margin: 0;
+	height: 26px;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+			
+.course_center_style2 {
+	width: 135px;
+	padding: 0;
+	margin: 0;
+	height: 26px;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
